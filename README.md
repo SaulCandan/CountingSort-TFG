@@ -27,15 +27,9 @@ Este proyecto explora la implementación de **Counting Sort en CUDA**, analizand
 
 - 💻 **Lenguaje**: C / CUDA C++
 - 🧠 **Paralelización**: NVIDIA CUDA
-- 🧪 **Entorno de desarrollo**: Visual Studio
-- 📊 **Herramientas de análisis**: Scripts para gráficas y métricas de rendimiento
 
 ## 📈 Resultados esperados
 
 - Aceleración significativa en el tiempo de ejecución respecto a versiones secuenciales.
 - Pruebas que validan la escalabilidad y robustez del algoritmo.
 - Gráficas de rendimiento en función del tamaño del array y del rango de valores.
-
-## 📂 Estructura del repositorio
-
-📁 CountingSort_CUDA_TFG/ ├── src/ # Código fuente principal │ ├── counting_sort.cu # Implementación CUDA │ └── main.cpp # Lógica de entrada/salida y pruebas ├── tests/ # Casos de prueba ├── results/ # Resultados y gráficas ├── README.md # Este archivo └── report/ # Memoria del TFG y documentación
